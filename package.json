@@ -1,0 +1,15 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "just deploying the simple app into the backend (just trying)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1"
+  }
+}
